@@ -1,5 +1,9 @@
 # Portrait Studio
 
+<p align="center">
+  <img src="docs/portrait-editor/portrait-studio-icon.png" alt="Portrait Studio icon showing a blueprint portrait assembled from editable grid cells" width="220" />
+</p>
+
 Portrait Studio is a local-first editor for creating animated portraits from typographic glyphs. Instead of applying a visual filter to a finished image, the editor turns a portrait into a structured document whose cells know what they represent: skin, hair, shadow, clothing, outline, or another semantic material.
 
 ![Portrait Studio editor showing a glyph portrait in Blueprint mode](docs/portrait-editor/primary-concept.png)
